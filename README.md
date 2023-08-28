@@ -1,8 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+yo, i made this project using ReactJs and Tailwind, Hope you like it ! <br>
+if you have any 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![WhatsApp Image 2023-08-28 at 16 06 18](https://github.com/LuckxSz/udemy-chalange-using-react---tailwind/assets/135531180/2f09c403-ec30-4789-be4e-fde64ae61f77)
+
+
+
