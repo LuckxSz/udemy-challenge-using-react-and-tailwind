@@ -1,8 +1,8 @@
 export function Cards() {
   return (
     <div className="flex justify-items-center content-between justify-center gap-x-28  text-zinc-50">
-      <div className="  shadow-lg md:shadow-xl md:shadow-white      rounded-3xl  gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
-        <h1 className="font-semibold  text-3xl border-spacing-x-4 border-b-2 ">
+      <div className="  shadow-lg md:shadow-xl md:shadow-white rounded-3xl gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
+        <h1 className="font-semibold text-3xl border-spacing-x-4 border-b-2 ">
           ESSENCIAL{" "}
         </h1>
         <span className="text-2xl font-light">R$3,95/mes</span>
@@ -15,7 +15,7 @@ export function Cards() {
           ASSINE JÁ
         </button>
       </div>
-      <div className="shadow-lg md:shadow-xl md:shadow-white    rounded-3xl  gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
+      <div className="shadow-lg md:shadow-xl md:shadow-white rounded-3xl gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
         <h1 className="font-semibold  text-3xl border-b-2 ">PREMIUM</h1>
         <span className="text-2xl font-light">R$7,95/mes</span>
         <div>
@@ -28,7 +28,7 @@ export function Cards() {
           ASSINE JÁ
         </button>
       </div>
-      <div className="shadow-lg md:shadow-xl md:shadow-white    rounded-3xl  gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
+      <div className="shadow-lg md:shadow-xl md:shadow-white rounded-3xl gap-4 bg-stone-900 pt-1 p-10 pb-15  flex justify-evenly flex-col ">
         <h1 className="font-semibold text-3xl border-b-2 ">GOLD</h1>
         <span className="text-2xl font-light">R$13,95/mes</span>
         <div>
