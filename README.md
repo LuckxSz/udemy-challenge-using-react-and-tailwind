@@ -1,7 +1,5 @@
 
 yo, i made this project using ReactJs and Tailwind, Hope you like it ! <br>
-if you have any 
-
 
 
 
